@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetExample", "NugetExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MascotExample", "MascotExample\MascotExample.csproj", "{F529FD93-F333-4FAC-BB7F-EDE592765595}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLogger", "AppLogger\AppLogger.csproj", "{6F9A8B2A-76AD-4F05-91AF-7A88148EB8B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F529FD93-F333-4FAC-BB7F-EDE592765595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F529FD93-F333-4FAC-BB7F-EDE592765595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F529FD93-F333-4FAC-BB7F-EDE592765595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9A8B2A-76AD-4F05-91AF-7A88148EB8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9A8B2A-76AD-4F05-91AF-7A88148EB8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9A8B2A-76AD-4F05-91AF-7A88148EB8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9A8B2A-76AD-4F05-91AF-7A88148EB8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

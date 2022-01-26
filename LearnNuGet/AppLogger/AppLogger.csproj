@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Company.Project.FeatureAppLogger</PackageId>
+    <Authors>NameOrCompany</Authors>
+    <Product>APrettierNameThanPackageID</Product>
+    <Description>Learning about Package properties to learn about NuGet
+"Library to log text to console"</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logging, Logs, Logger</PackageTags>
+  </PropertyGroup>
+
+</Project>

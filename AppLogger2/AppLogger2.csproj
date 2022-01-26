@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
+    <PackageId>MyCompany.Utilities.AppLogger</PackageId>
+    <Authors>Me and no one else</Authors>
+    <Company>My imaginary company</Company>
+    <Description>Library to log text to console</Description>
+    <PackageLicenseExpression>Original OC please no steal...I mean MIT</PackageLicenseExpression>
+    <PackageTags>Logging, Logger, Log, Clickbait - ok not really</PackageTags>
+    <RepositoryUlr>https://github.com/um...to..be..continued</RepositoryUlr>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

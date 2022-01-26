@@ -3,10 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <PackageId>MyCompany.Utilities.AppLogger</PackageId>
-    <Authors>Me and no one else</Authors>
+    <Authors>Me and no one else (normally this is the Company name)</Authors>
     <Company>My imaginary company</Company>
     <Description>Library to log text to console</Description>
-    <PackageLicenseExpression>Original OC please no steal...I mean MIT</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Logging, Logger, Log, Clickbait - ok not really</PackageTags>
     <RepositoryUlr>https://github.com/um...to..be..continued</RepositoryUlr>
     <ImplicitUsings>enable</ImplicitUsings>
